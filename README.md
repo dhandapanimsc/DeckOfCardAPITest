@@ -1,15 +1,15 @@
 # DeckOfCardAPITest
 
-#General info
+##General info
 This project aims to test the API by Adding Jokers and draw card from the Deck 
 
-#Used Technologis
+##Used Technologis
 -Java
 -Rest assured
 -Maven
 -TestNG
 
-#Setup
+##Setup
 To run this project, install it locally or clone the url
 
 ###Launch 
@@ -19,5 +19,5 @@ or
 or
 -Right click and run testng.xml
 
-#Test case coverage
+##Test case coverage
 Doument name : Test statergy.xlsx
