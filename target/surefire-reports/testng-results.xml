@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-01T21:38:28Z" name="All Test Suite" finished-at="2020-10-01T21:38:32Z" duration-ms="3967">
+    <groups>
+    </groups>
+    <test started-at="2020-10-01T21:38:28Z" name="C:/Users/bsami/Assesment" finished-at="2020-10-01T21:38:32Z" duration-ms="3967">
+      <class name="com.getRequest.test.GetData">
+        <test-method signature="testDeckID()[pri:0, instance:com.getRequest.test.GetData@145f66e3]" started-at="2020-10-01T21:38:28Z" name="testDeckID" finished-at="2020-10-01T21:38:32Z" duration-ms="3946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeckID -->
+      </class> <!-- com.getRequest.test.GetData -->
+    </test> <!-- C:/Users/bsami/Assesment -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
