@@ -18,3 +18,6 @@ or
 -Right click and run GetData.class
 or
 -Right click and run testng.xml
+
+#Test case coverage
+Doument name : Test statergy.xlsx
